@@ -1,0 +1,21 @@
+ 
+ 
+  .social-icons {
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: flex-end;
+    float: right;
+    width: 100%;
+    height: 30px;
+  }
+  
+  .social-icon {
+    margin-right: 10px; /* Adjust space between icons */
+  }
+  
+  .social-icon img {
+    width: 30px;
+    height: 30px;
+  }
+  
