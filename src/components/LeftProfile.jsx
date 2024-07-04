@@ -1,5 +1,7 @@
 export const LeftProfile = () => {
     return (
-        <div>left profile</div>
+        <div>
+            <img src={require("../assets/images/ankita.jpeg")} />
+        </div>
     )
 }

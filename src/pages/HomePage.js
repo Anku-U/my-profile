@@ -5,8 +5,14 @@ import './HomePage.css'
 export const HomePage = () => {
   return (
     <div className="profile">
-      <LeftProfile />
+      <div className="left-profile">
+        <LeftProfile />
+      </div>
+      <div className="right-profile">
       <RightProfile />
+      </div>
+      
+      
     </div>
   )
 }

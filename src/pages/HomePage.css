@@ -1,9 +1,29 @@
 .profile {
+    overflow: hidden;
     display: flex;
     flex-direction: row;
     width: 100%;
-    height: 80%;
-    background-color: pink;
-    padding: 10px;
-    min-height: 80%;
+    height: 100vh;
+    background-color: rgb(250, 224, 228);
+
+    .left-profile {
+        width: 30%;
+    }
+
+    .right-profile {
+        width: 70%;
+        padding: 50px;
+        font-size: 2em;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+        .right-profile-container {
+            color:red;
+
+        }
+    }
+}
+
+img {
+    width: 30vw;
+    height: 90vh;
 }

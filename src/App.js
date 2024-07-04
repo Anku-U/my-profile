@@ -11,7 +11,7 @@ import { HomePage } from './pages/HomePage';
 function App() {
   return (
     <Router> 
-      <div>
+      <div className='App'>
         <SocialHeader />
         <Header />
         <Routes>
