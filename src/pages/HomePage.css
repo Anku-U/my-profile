@@ -1,0 +1,9 @@
+.profile {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 80%;
+    background-color: pink;
+    padding: 10px;
+    min-height: 80%;
+}
