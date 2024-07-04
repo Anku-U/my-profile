@@ -4,6 +4,7 @@ import './App.css';
 import { Header } from './components/Header';
 import { SocialHeader } from './components/SocialHeader';
 import { About } from './pages/About';
+import { Blogs } from './pages/Blogs';
 import { Contact } from './pages/Contact';
 import { HomePage } from './pages/HomePage';
 
@@ -17,7 +18,7 @@ function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
-
+          <Route path="/blogs" element={<Blogs />} />
         </Routes>
       </div>
 
