@@ -6,7 +6,8 @@ export const RightProfile = () => {
             <p>Creative <span className='speciality'>web / mobile</span> <br/> designer & developer</p>
 
             <div className='btn'>
-                <a href='mailto:ankitaurkude4742@gmail.com' className='hire-btn butn'>Hire Me</a><a target='_blank' href='../assets/pdf/Ankita_Urkude_-_Web_Developer.pdf' className='download-btn butn'>Download CV</a>
+                <a href='mailto:ankitaurkude4742@gmail.com' className='hire-btn butn'>Hire Me</a>
+                <a target='_blank' href='https://drive.google.com/file/d/1OxcXg8KDnviWONA2PNHfNyJd2xu6hdeA/view?usp=drive_link' className='download-btn butn'>Download CV</a>
             </div>
             
         </div>
