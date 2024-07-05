@@ -1,0 +1,52 @@
+.right-profile-container {
+    color: black;
+    font-family: "Imprima", sans-serif;
+    align-items: start;
+    text-align: start;
+    /* transform: translate(50);
+     */
+    translate: 200px 200px;
+
+    .my-name {
+        font-size: 20px;
+    }
+
+    .speciality {
+        color: #F4C05B;
+    }
+
+    p {
+        font-size: 50px;
+    }
+
+    .btn {
+        display: flex;
+        justify-content: space-between;
+        width: 20vw;
+        /* padding: 10px; */
+        margin-left: 7em;
+
+        .butn {
+            width: 100px;
+            cursor: default;
+            text-decoration: none;
+            color: black;
+        }
+
+        .butn:hover {
+            cursor: pointer;
+        }
+
+        .download-btn {
+            background-color: #989797;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        .hire-btn {
+            padding: 10px;
+            
+        }
+    }
+    
+}

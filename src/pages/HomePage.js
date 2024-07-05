@@ -9,7 +9,7 @@ export const HomePage = () => {
         <LeftProfile />
       </div>
       <div className="right-profile">
-      <RightProfile />
+        <RightProfile />
       </div>
       
       

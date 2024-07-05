@@ -11,15 +11,19 @@
     }
 
     .right-profile {
-        width: 70%;
-        padding: 50px;
-        font-size: 2em;
-        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        width: 80vw;
+        /* padding: 50px;
+        font-size: 2em; */
+        /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
         .right-profile-container {
             color:red;
 
-        }
+            a {
+                font-size: 15px;
+            }
+
+        } */
     }
 }
 
